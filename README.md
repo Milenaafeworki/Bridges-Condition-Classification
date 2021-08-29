@@ -23,19 +23,19 @@ numbers (unit in days) of freeze-thaw cycles and snowfalls. The National Aeronau
 Administration (NASA) Modern-Era Retrospective Analysis for Research and Applications,
 Version 2 (MERRA-2) program provides the original source of climate data  which is currently available from January 1, 1980 to December 31, 2020.
 
-```
-NBI scale	Condition	    Description
 
-        9	Excellent	    New condition, no noteworthy deficiencies.
-        8	Very good	    No repair needed.
-        7	Good	        Some minor problems, minor maintenance needed.
-        6	Satisfactory	Some minor deterioration, major maintenance needed.
-        5	Fair	        Minor section loss, cracking, spalling, or scouring.
-        4	Poor	        Advanced section loss, deterioration, spalling or scouring; major rehabilitation needed. 
-        3	Serious	        Section loss, deterioration, spalling or scouring seriously affected primary components.
-        2	Critical	    Advanced deterioration of primary structural elements; bridge closed. 
-        1	Imminent        Major deterioration or loss of section; bridge may be closed to traffic.
+NBI scale    Condition    Description
+
+        9	Excellent     New condition, no noteworthy deficiencies.
+        8	Very good     No repair needed.
+        7	Good          Some minor problems, minor maintenance needed.
+        6	Satisfactory  Some minor deterioration, major maintenance needed.
+        5	Fair          Minor section loss, cracking, spalling, or scouring.
+        4	Poor          Advanced section loss, deterioration, spalling or scouring; major rehabilitation needed. 
+        3	Seriou        Section loss, deterioration, spalling or scouring seriously affected primary components.
+        2	Critical      Advanced deterioration of primary structural elements; bridge closed. 
+        1	Imminent      Major deterioration or loss of section; bridge may be closed to traffic.
             failure
-        0	Failed	        Out of service and beyond corrective action.
+        0	Failed        Out of service and beyond corrective action.
 
- ```
+
