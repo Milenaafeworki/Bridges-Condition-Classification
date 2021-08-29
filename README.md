@@ -11,12 +11,12 @@ January 2019 marked the release of the Long-Term Bridge Performance (LTBP) Progr
 
 ## Business Problem
 
+Bridge management practices of departments of transportation is looking to assist bridge managers in making consistent and cost-effective decisions related to maintenance and rehabilitation of bridges. The decision making, either at the network level or at the project level, is based on current and future bridge conditions. Therefore, it is essential for a bridge management system to be capable of accurately predicting future bridge conditions to help make an informed decision on when and where to allocate maintenance budgets. 
+
 
 ## Data Understanding
 
-The data pattern underlying the historical bridge inspection records contains useful information in
-describing the deterioration trends of highway bridge decks, sub-structure and super-structure. Therefore, developing an appropriate
-algorithm that can identify data patterns buried in history can solve the condition-forecast problem. The data-mining algorithm emphasizes the changing trends of bridge condition ratings along withother factors that may influence the structure-deterioration process.
+The data pattern underlying the historical bridge inspection records contains useful information in describing the deterioration trends of highway bridge decks, sub-structure and super-structure. Therefore, developing an appropriate algorithm that can identify data patterns buried in history can solve the condition-forecast problem. The data-mining algorithm emphasizes the changing trends of bridge condition ratings along withother factors that may influence the structure-deterioration process.
 
 The analysis uses NBI and climatic data from InfoBridge. The climatic data refer to the annual
 numbers (unit in days) of freeze-thaw cycles and snowfalls. The National Aeronautics and Space
