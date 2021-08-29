@@ -1,5 +1,5 @@
 
-
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classificatio/main/images/bridges.jpg'>
 
 
 
@@ -38,3 +38,6 @@ Version 2 (MERRA-2) program provides the original source of climate data  which 
         0	Failed        Out of service and beyond corrective action.
 
 ```
+
+## Methods
+
