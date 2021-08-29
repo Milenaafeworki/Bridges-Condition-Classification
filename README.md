@@ -28,14 +28,14 @@ NBI scale	Condition	    Description
 
         9	Excellent	    New condition, no noteworthy deficiencies.
         8	Very good	    No repair needed.
-        7	Good	         Some minor problems, minor maintenance needed.
-        6	Satisfactory	 Some minor deterioration, major maintenance needed.
-        5	Fair	         Minor section loss, cracking, spalling, or scouring.
-        4	Poor	         Advanced section loss, deterioration, spalling or scouring; major rehabilitation needed. 
-        3	Serious	      Section loss, deterioration, spalling or scouring seriously affected primary components.
-        2	Critical	     Advanced deterioration of primary structural elements; bridge closed. 
-        1	Imminent         Major deterioration or loss of section; bridge may be closed to traffic.
+        7	Good	        Some minor problems, minor maintenance needed.
+        6	Satisfactory	Some minor deterioration, major maintenance needed.
+        5	Fair	        Minor section loss, cracking, spalling, or scouring.
+        4	Poor	        Advanced section loss, deterioration, spalling or scouring; major rehabilitation needed. 
+        3	Serious	        Section loss, deterioration, spalling or scouring seriously affected primary components.
+        2	Critical	    Advanced deterioration of primary structural elements; bridge closed. 
+        1	Imminent        Major deterioration or loss of section; bridge may be closed to traffic.
             failure
-        0	Failed	       Out of service and beyond corrective action.
+        0	Failed	        Out of service and beyond corrective action.
 
  ```
