@@ -41,3 +41,11 @@ Version 2 (MERRA-2) program provides the original source of climate data  which 
 
 ## Methods
 
+This project follows the OSEMN process of data science inquiry. 
+
+- Obtain
+- Scrub
+- Explore
+- Modeling (KNN, RandomForest, XGBoost)
+- Interpret
+
