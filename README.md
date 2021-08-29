@@ -1,5 +1,5 @@
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classificatio/main/images/bridges.jpg'>
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classificatio/master/images/bridges.jpg'>
 
 
 
