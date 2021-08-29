@@ -35,7 +35,7 @@ Version 2 (MERRA-2) program provides the original source of climate data  which 
         3	Seriou        Section loss, deterioration, spalling or scouring seriously affected primary components.
         2	Critical      Advanced deterioration of primary structural elements; bridge closed. 
         1	Imminent      Major deterioration or loss of section; bridge may be closed to traffic.
-            failure
+               failure
         0	Failed        Out of service and beyond corrective action.
 
 ```
