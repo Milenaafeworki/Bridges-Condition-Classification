@@ -23,8 +23,8 @@ numbers (unit in days) of freeze-thaw cycles and snowfalls. The National Aeronau
 Administration (NASA) Modern-Era Retrospective Analysis for Research and Applications,
 Version 2 (MERRA-2) program provides the original source of climate data  which is currently available from January 1, 1980 to December 31, 2020.
 
-
-NBI scale    Condition    Description
+```
+  NBI scale    Condition    Description
 
         9	Excellent     New condition, no noteworthy deficiencies.
         8	Very good     No repair needed.
@@ -38,4 +38,4 @@ NBI scale    Condition    Description
             failure
         0	Failed        Out of service and beyond corrective action.
 
-
+```
