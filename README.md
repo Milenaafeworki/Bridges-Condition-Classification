@@ -49,3 +49,9 @@ This project follows the OSEMN process of data science inquiry.
 - Modeling (KNN, RandomForest, XGBoost)
 - Interpret
 
+## Results
+
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/poor&fair.jpg'>
+
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/top20poor.jpg'>
+
