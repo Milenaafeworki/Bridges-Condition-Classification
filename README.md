@@ -49,7 +49,7 @@ This project follows the OSEMN process of data science inquiry.
 
 ## Process
 
-Modeling involved iterating through parameters of the following model types with GridSearchCV and SMOTE on the following model types:
+Modeling involved iterating through parameters of the following model types with GridSearchCV and SMOTE:
 
 - K-Nearest Neighbors - KNNClassifier
 
@@ -58,6 +58,7 @@ Modeling involved iterating through parameters of the following model types with
 - XGBoost - XGBClassifier
 
 ## Results
+
 
 
 
