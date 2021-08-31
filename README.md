@@ -17,9 +17,7 @@ Bridge management practices of departments of transportation is looking to assis
 
 The data pattern underlying the historical bridge inspection records contains useful information in describing the deterioration trends of highway bridge decks, sub-structure and super-structure. Therefore, developing an appropriate algorithm that can identify data patterns buried in history can solve the condition-forecast problem. The data-mining algorithm emphasizes the changing trends of bridge condition ratings along withother factors that may influence the structure-deterioration process.
 
-The analysis uses NBI and climatic data from InfoBridge. The climatic data refer to the annual
-numbers (unit in days) of freeze-thaw cycles and snowfalls. The National Aeronautics and Space
-Administration (NASA) Modern-Era Retrospective Analysis for Research and Applications,
+The analysis uses NBI and climatic data from InfoBridge. The climatic data refer to the annual numbers (unit in days) of freeze-thaw cycles and snowfalls. The National Aeronautics and Space Administration (NASA) Modern-Era Retrospective Analysis for Research and Applications,
 Version 2 (MERRA-2) program provides the original source of climate data  which is currently available from January 1, 1980 to December 31, 2020.
 
 ```
@@ -49,9 +47,54 @@ This project follows the OSEMN process of data science inquiry.
 - Modeling (KNN, RandomForest, XGBoost)
 - Interpret
 
+## Process
+
+Modeling involved iterating through parameters of the following model types with GridSearchCV and SMOTE on the following model types:
+
+- K-Nearest Neighbors - KNNClassifier
+
+- Random Forest - RandomForestClassifier
+
+- XGBoost - XGBClassifier
+
 ## Results
+
+
+
+
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/poor%26fair.png'>
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/top20poor.png'>
+
+
+
+## Conclusions and Interpretation
+
+
+The overall best model was Random Forrest which performed considerably better than other models at predicting the 'Fair' and 'Good' Bridge conditions
+
+**Random forest:** 
+
+   1. Baseline model
+    
+    Non functional  (77%)     
+    Functional      (87%)   
+    Functional needs repair  (29%) 
+    
+    
+   2. Gridsearch CV
+    
+    Non functional  (68%)     
+    Functional      (92%)   
+    Functional needs repair  (10%)
+    
+    
+   3. SMOTE
+    
+    Non functional  (69%)     
+    Functional      (79%)   
+    Functional needs repair  (55%)
+
+ Given more time and with some more tunning it may be able to increase its performance.
 
