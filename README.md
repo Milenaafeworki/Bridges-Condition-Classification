@@ -70,6 +70,10 @@ Modeling involved iterating through parameters of the following model types with
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/top20poor.png'>
 
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/US_map.png'>
+
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/States_poor_condition.png'>
+
 
 
 ## Conclusions and Interpretation
