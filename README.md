@@ -64,6 +64,8 @@ Modeling involved iterating through parameters of the following model types with
 
 
 
+
+
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/poor%26fair.png'>
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/top20poor.png'>
@@ -73,29 +75,29 @@ Modeling involved iterating through parameters of the following model types with
 ## Conclusions and Interpretation
 
 
-The overall best model was Random Forrest which performed considerably better than other models at predicting the 'Fair' and 'Good' Bridge conditions
+Over all the RandomForest model was able to deliver the best possible alternative algorithm for the Bridge condition calssification. Moreover, class imbalance affected the performance of the models greatly and as a result, the instances belonging to the minority group were consistently misclassified more often than those belonging to the majority group. 
 
 **Random forest:** 
 
    1. Baseline model
     
-    Non functional  (77%)     
-    Functional      (87%)   
-    Functional needs repair  (29%) 
+    Good  (79%)     
+    Fair      (76%)   
+    Poor  (34%) 
     
     
    2. Gridsearch CV
     
-    Non functional  (68%)     
-    Functional      (92%)   
-    Functional needs repair  (10%)
-    
+     Good  (78%)     
+    Fair      (74%)   
+    Poor  (26%) 
     
    3. SMOTE
     
-    Non functional  (69%)     
-    Functional      (79%)   
-    Functional needs repair  (55%)
+     Good  (77%)     
+    Fair      (73%)   
+    Poor  (41%) 
+
 
  Given more time and with some more tunning it may be able to increase its performance.
 
