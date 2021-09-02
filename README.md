@@ -86,20 +86,20 @@ Over all the RandomForest model was able to deliver the best possible alternativ
    1. Baseline model
     
     Good  (79%)     
-    Fair      (76%)   
+    Fair  (76%)   
     Poor  (34%) 
     
     
    2. Gridsearch CV
     
      Good  (78%)     
-    Fair      (74%)   
+    Fair   (74%)   
     Poor  (26%) 
     
    3. SMOTE
     
      Good  (77%)     
-    Fair      (73%)   
+    Fair   (73%)   
     Poor  (41%) 
 
 
