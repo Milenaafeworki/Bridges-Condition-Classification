@@ -76,7 +76,7 @@ Modeling involved iterating through parameters of the following model types with
 
 
 
-## Conclusions and Interpretation
+## Conclusions and Recommendation
 
 
 Over all the RandomForest model was able to deliver the best possible alternative algorithm for the Bridge condition calssification. Moreover, class imbalance affected the performance of the models greatly and as a result, the instances belonging to the minority group were consistently misclassified more often than those belonging to the majority group. 
@@ -104,4 +104,8 @@ Over all the RandomForest model was able to deliver the best possible alternativ
 
 
  Given more time and with some more tunning it may be able to increase its performance.
+ 
+ ## 
+ 
+ 
 
