@@ -111,7 +111,17 @@ Bridges are typically exposed to strong wind currents hitting them perpendicular
 
 - Last but not least, incorporating  the above mentioned features and expanding number of  parameters used for Classification algorithms to deliver a model much more sophisticated and Robust would be ideal. 
 
- 
+```
+├── images
+├── Bridge data.ipynb
+├── Bridge modeling.ipynb
+├── Visualizations.ipynb
+├── README.md
+├── bridge_data_cleaned2.csv
+├── bridge_data_cleaned3.csv
+└── bridge_data_cleaned3.csv
+
+``` 
  
  
  
