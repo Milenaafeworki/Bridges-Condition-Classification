@@ -60,15 +60,9 @@ Modeling involved iterating through parameters of the following model types with
 ## Results
 
 
-
-
-
-
-
-
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/poor%26fair.png'>
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/top20poor.png'>
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/freeze_thaw.png'>
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/US_map.png'>
 
