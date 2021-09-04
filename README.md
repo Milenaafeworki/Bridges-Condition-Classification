@@ -107,6 +107,17 @@ Over all the RandomForest model was able to deliver the best possible alternativ
  
  ## Further Study
  
+- With limited resources to properly maintain and upgrade transportation infrastructure, bridges often end up exceeding their expected
+service lifespan and so I would be interested in  investigating if past failures help identify vulnerable bridges to extreme events
+
+- Agencies responsible for maintaining these bridges rely on the process of load rating which is, a measure of bridge live load capacity, to assess the adequacy of individual structures and I believe including such features would positively affect the model’s robustness.
+
+- Another feature worth exploring would be the effects of wind and their significance. 
+Bridges are typically exposed to strong wind currents hitting them perpendicularly, and their sheer size results in very high mechanical loads induced by the wind which may result in instability and excessive vibration in long-span bridges. Evaluating how that affects the condition of the bridge could be targeted to showcase its impact.
+
+- Last but not least, Incorporating  the above mentioned features and expanding number of  parameters used for Classification algorithms to deliver a model much more sophisticated and Robust would be ideal. 
+
+ 
  
  
  
