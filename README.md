@@ -105,7 +105,9 @@ Over all the RandomForest model was able to deliver the best possible alternativ
 
  Given more time and with some more tunning it may be able to increase its performance.
  
- ## 
+ ## Further Study
+ 
+ 
  
  
 
