@@ -79,7 +79,7 @@ Modeling involved iterating through parameters of the following model types with
 ## Conclusions and Recommendation
 
 
-Over all the RandomForest model was able to deliver the best possible alternative algorithm for the Bridge condition calssification. Moreover, class imbalance affected the performance of the models greatly and as a result, the instances belonging to the minority group were consistently misclassified more often than those belonging to the majority group. 
+Over all the RandomForest model was able to deliver the best possible alternative algorithm for the Bridge condition calssification. Moreover, class imbalance affected the performance of the models greatly and as a result, the instances belonging to the minority group were consistently misclassified more often than those belonging to the majority group.
 
 **Random forest:** 
 
@@ -110,12 +110,12 @@ Over all the RandomForest model was able to deliver the best possible alternativ
 - With limited resources to properly maintain and upgrade transportation infrastructure, bridges often end up exceeding their expected
 service lifespan and so I would be interested in  investigating if past failures help identify vulnerable bridges to extreme events
 
-- Agencies responsible for maintaining these bridges rely on the process of load rating which is, a measure of bridge live load capacity, to assess the adequacy of individual structures and I believe including such features would positively affect the model’s robustness.
+- Agencies responsible for maintaining these bridges rely on the process of load rating, which is a measure of bridge live load capacity, to assess the adequacy of individual structures and I believe including such features would positively affect the model’s robustness.
 
-- Another feature worth exploring would be the effects of wind and their significance. 
+- Another feature worth exploring would be the effects of wind and its significance. 
 Bridges are typically exposed to strong wind currents hitting them perpendicularly, and their sheer size results in very high mechanical loads induced by the wind which may result in instability and excessive vibration in long-span bridges. Evaluating how that affects the condition of the bridge could be targeted to showcase its impact.
 
-- Last but not least, Incorporating  the above mentioned features and expanding number of  parameters used for Classification algorithms to deliver a model much more sophisticated and Robust would be ideal. 
+- Last but not least, incorporating  the above mentioned features and expanding number of  parameters used for Classification algorithms to deliver a model much more sophisticated and Robust would be ideal. 
 
  
  
