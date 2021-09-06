@@ -65,13 +65,13 @@ The second highest 'poor condition'  rating state is Iowa with 19% of its bridge
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/poor%26fair.png'>
 
-Another important feature in the our dataset was the freeze and thaw cycle. Freeze-thaw occurs when water continually seeps into cracks, freezes and expands, eventually breaking the rock apart. Now this feature is most significant in areas affected by snow or very low temperature. Although High freeze-thaw cycle of these states don’t necessarily mean poor condition of bridge, majority of them are highly affected by this factor. 
+Another important feature in the our dataset was the freeze and thaw cycle. Freeze-thaw occurs when water continually seeps into cracks, freezes and expands, eventually breaking the rock apart. Now this feature is most significant in areas affected by snow or very low temperature. Although High freeze-thaw cycle of these states don’t necessarily mean poor condition of bridge, majority of those 'Poor' bridges are highly affected by this factor. 
 
 
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/freeze_thaw.png'>
 
-We also explore the States which have the majority of  those critical condition bridges. The Eastern side of the Country consists  of a higher percentage of those poor conditioned structures and as we take a closer look at the heatmap around the zones with the color Red, you can further distinguish that those were some of the top rated states with poor condition that we noted in our previous slide. States locator on blue or green show an average of number of Good and Fair conditions.
+We also explore the States which have the majority of  those critical condition bridges. The Eastern side of the Country consists  of a higher percentage of those poor conditioned structures and as we take a closer look at the heatmap around the zones with the color Red, you can further distinguish that those were some of the top rated states with poor condition that we noted in the first chart above. States locator on blue or green show an average of number of Good and Fair conditions.
 
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/US_map.png'>
