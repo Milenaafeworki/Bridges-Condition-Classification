@@ -60,7 +60,7 @@ Modeling involved iterating through parameters of the following model types with
 ## Results
 
 Of the 7,295 bridges in the state of West Virginia,  21% percent, are classified as structurally deficient. This means one of the key elements is in poor or critical condition.
-The second highest “poor condition’  rating state is Iowa with 19% of its bridges being in poor condition and 50% fair condition. 
+The second highest 'poor condition'  rating state is Iowa with 19% of its bridges being in poor condition and 50% fair condition. 
 
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/poor%26fair.png'>
