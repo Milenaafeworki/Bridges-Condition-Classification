@@ -112,8 +112,7 @@ Over all the RandomForest model was able to deliver the best possible alternativ
  ## Further Study
  
 - With limited resources to properly maintain and upgrade transportation infrastructure, bridges often end up exceeding their expected
-service lifespan and so I would be interested in 
--  investigating if past failures help identify vulnerable bridges to extreme events
+service lifespan and so I would be interested in investigating if past failures help identify vulnerable bridges to extreme events
 
 - Explore how model would be able to adjust to the process of load rating,  measures of bridge live load capacity, to assess the adequacy of individual structures.
 
@@ -125,7 +124,6 @@ service lifespan and so I would be interested in
 ```
 ├── images
 ├── Bridge data.ipynb
-├── Bridge modeling.ipynb
 ├── Visualizations.ipynb
 ├── README.md
 ├── bridge_data_cleaned1.csv
