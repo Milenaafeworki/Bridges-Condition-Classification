@@ -125,6 +125,9 @@ service lifespan and so I would be interested in investigating if past failures 
 ├── images
 ├── Bridge data.ipynb
 ├── Visualizations.ipynb
+├── Bridge_data.pdf
+├── Visualizations.pdf
+├── Presentation.ipynb
 ├── README.md
 ├── bridge_data_cleaned1.csv
 ├── bridge_data_cleaned2.csv
