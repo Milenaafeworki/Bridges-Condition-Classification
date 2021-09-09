@@ -117,9 +117,9 @@ service lifespan and so I would be interested in investigating if past failures 
 - Explore how model would be able to adjust to the process of load rating,  measures of bridge live load capacity, to assess the adequacy of individual structures.
 
 
--  Evaluating how wind factors affect the condition of long span bridge could be targeted to showcase its impact.
+- Evaluating how wind factors affect the condition of long span bridge could be targeted to showcase its impact.
 
-- Last but not least, incorporating  the above mentioned features and expanding number of parameters used for Classification algorithms to deliver a model much more sophisticated and Robust would be ideal. 
+- Last but not least, incorporating  the above mentioned features and expanding the number of parameters used for Classification algorithms to deliver a model much more sophisticated and robust would be ideal. 
 
 ```
 ├── images
