@@ -2,17 +2,21 @@
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/bridges.jpg'>
 
 
+
 # Bridges-Classificaiton-Model 
+
 
 January 2019 marked the release of the Long-Term Bridge Performance (LTBP) Program’s InfoBridge™ web portal, a newly developed website for dissemination and visualization of bridge data, information, and products developed by the LTBP Program. The portal’s main purpose is to leverage the analytical capability of the highway bridge research community, and fulfill the Federal Highway Administration’s (FHWA’s) responsibility to provide transparency and ready access to data collected through Federal research programs.
 
 
 ## Business Problem
 
+
 Bridge management practices of departments of transportation is looking to assist bridge managers in making consistent and cost-effective decisions related to maintenance and rehabilitation of bridges. The decision making, either at the network level or at the project level, is based on current and future bridge conditions. Therefore, it is essential for a bridge management system to be capable of accurately predicting future bridge conditions to help make an informed decision on when and where to allocate maintenance budgets. 
 
 
 ## Data Understanding
+
 
 The data pattern underlying the historical bridge inspection records contains useful information in describing the deterioration trends of highway bridge decks, sub-structure and super-structure. Therefore, developing an appropriate algorithm that can identify data patterns buried in history can solve the condition-forecast problem. The data-mining algorithm emphasizes the changing trends of bridge condition ratings along withother factors that may influence the structure-deterioration process.
 
@@ -38,6 +42,7 @@ Version 2 (MERRA-2) program provides the original source of climate data  which 
 
 ## Methods
 
+
 This project follows the OSEMN process of data science inquiry. 
 
 - Obtain
@@ -46,7 +51,9 @@ This project follows the OSEMN process of data science inquiry.
 - Modeling (KNN, RandomForest, XGBoost)
 - Interpret
 
+
 ## Process
+
 
 Modeling involved iterating through parameters of the following model types with GridSearchCV and SMOTE:
 
@@ -56,7 +63,9 @@ Modeling involved iterating through parameters of the following model types with
 
 - XGBoost - XGBClassifier
 
+
 ## Results
+
 
 Of the 7,295 bridges in the state of West Virginia,  21% percent, are classified as structurally deficient. This means one of the key elements is in poor or critical condition.
 The second highest 'poor condition'  rating state is Iowa with 19% of its bridges being in poor condition and 50% fair condition. 
@@ -104,6 +113,7 @@ Over all the RandomForest model was able to deliver the best possible alternativ
  Given more time and with some more tunning it may be able to increase its performance.
  
  ## Further Study
+ 
  
 - With limited resources to properly maintain and upgrade transportation infrastructure, bridges often end up exceeding their expected
 service lifespan and so I would be interested in investigating if past failures help identify vulnerable bridges to extreme events
