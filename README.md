@@ -2,7 +2,6 @@
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/bridges.jpg'>
 
 
-
 # Bridges-Classificaiton-Model 
 
 
