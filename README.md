@@ -81,6 +81,7 @@ We also explore the States which have the majority of  those critical condition 
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Bridges-Condition-Classification/master/images/States_poor_condition.png'>
 
+
 ## Conclusions and Recommendation
 
 Over all the RandomForest model was able to deliver the best possible alternative algorithm for the Bridge condition calssification. Moreover, class imbalance affected the performance of the models greatly and as a result, the instances belonging to the minority group were consistently misclassified more often than those belonging to the majority group.
