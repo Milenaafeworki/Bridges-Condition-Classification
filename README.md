@@ -18,7 +18,7 @@ Bridge management practices of departments of transportation is looking to assis
 ## Data Understanding
 
 
-The data pattern underlying the historical bridge inspection records contains useful information in describing the deterioration trends of highway bridge decks, sub-structure and super-structure. Therefore, developing an appropriate algorithm that can identify data patterns buried in history can solve the condition-forecast problem. The data-mining algorithm emphasizes the changing trends of bridge condition ratings along withother factors that may influence the structure-deterioration process.
+The data pattern underlying the historical bridge inspection records contains useful information in describing the deterioration trends of highway bridge decks, sub-structure and super-structure. Therefore, developing an appropriate algorithm that can identify data patterns buried in history can solve the condition-forecast problem. The data-mining algorithm emphasizes the changing trends of bridge condition ratings along with other factors that may influence the structure-deterioration process.
 
 The analysis uses NBI and climatic data from InfoBridge. The climatic data refer to the annual numbers (unit in days) of freeze-thaw cycles and snowfalls. The National Aeronautics and Space Administration (NASA) Modern-Era Retrospective Analysis for Research and Applications,
 Version 2 (MERRA-2) program provides the original source of climate data  which is currently available from January 1, 1980 to December 31, 2020.
@@ -128,8 +128,6 @@ service lifespan and so I would be interested in investigating if past failures 
 ├── images
 ├── Bridge data.ipynb
 ├── Visualizations.ipynb
-├── Bridge_data.pdf
-├── Visualizations.pdf
 ├── Presentation.ipynb
 ├── README.md
 ├── bridge_data_cleaned1.csv
